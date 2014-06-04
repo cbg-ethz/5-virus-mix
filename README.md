@@ -6,7 +6,7 @@ HIV-1 full-length benchmarking data sets for haplotype reconstruction methods, s
 If you use this data, please cite:  
 **Di Giallonardo, Töpfer et al.**  
 Full-length haplotype reconstruction to infer the structure of heterogeneous virus populations  
-_PNAS_, 2014 _in press_
+_NAR_, 2014 _in press_
 
 
 ###Lab workflow

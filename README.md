@@ -18,6 +18,14 @@ _PNAS_, 2014 _in press_
 [PacBio.sra](http://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR961/SRR961669/SRR961669.sra)  
 
 ###True haplotypes
+[5VM.fasta](https://github.com/armintoepfer/5-virus-mix/blob/master/data/5VM.fasta)
 
 ###Single-genome amplification counts
 
+
+###Contact
+For questions regarding the sequencing protocol:  
+  
+  
+For questions regarding analysis of the data:  
+armin.toepfer (at) gmail.com

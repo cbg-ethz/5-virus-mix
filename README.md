@@ -1,12 +1,13 @@
 <h1 align="center">5-virus-mix</h1>
 
-HIV-1 full-length benchmarking data sets for haplotype reconstruction methods, sequenced with Illumina MiSeq, 454/Roche GSJunior, and Pacific Biosciences. Five well-studied HIV-1 strains (HXB2, 89.6, JR-CSF, NL4-3, and YU-2) have been mixed and sequenced. Individual strains have also been resequenced to validate reconstruction results. Frequency estimates can be compared to single-genome amplification counts.
+HIV-1 full-length benchmarking data sets for haplotype reconstruction methods, sequenced with Illumina MiSeq, 454/Roche GSJunior, and Pacific Biosciences. Five well-studied HIV-1 strains (HXB2, 89.6, JR-CSF, NL4-3, and YU-2) have been mixed and sequenced. Individual strains have also been resequenced to validate reconstruction results. 
 
 ###Citation
 If you use this data, please cite:  
 **Di Giallonardo, Töpfer et al.**  
 Full-length haplotype reconstruction to infer the structure of heterogeneous virus populations  
-_NAR_, 2014 _in press_
+_NAR_, 2014
+[10.1093/nar/gku537](http://nar.oxfordjournals.org/content/early/2014/06/27/nar.gku537)
 
 
 ###Lab workflow
@@ -20,12 +21,6 @@ _NAR_, 2014 _in press_
 ###True haplotypes
 [5VM.fasta](https://github.com/armintoepfer/5-virus-mix/blob/master/data/5VM.fasta)
 
-###Single-genome amplification counts
-
-
 ###Contact
-For questions regarding the sequencing protocol:  
-  
-  
 For questions regarding analysis of the data:  
 armin.toepfer (at) gmail.com

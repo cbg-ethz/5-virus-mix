@@ -25,7 +25,13 @@ _NAR_, 2014
 [PacBio.sra](http://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR961/SRR961669/SRR961669.sra)  
 
 ### True haplotypes
+### Reconstructed haplotypes
+These haplotypes have been reconstructed with respect to the HXB2 reference space, excluding insertion:
 [5VM.fasta](https://github.com/armintoepfer/5-virus-mix/blob/master/data/5VM.fasta)
+
+### Resequenced references
+Resequenced full-length references:
+[REF.fasta](https://github.com/armintoepfer/5-virus-mix/blob/master/data/REF.fasta)
 
 ### Contact
 For questions regarding analysis of the data:  

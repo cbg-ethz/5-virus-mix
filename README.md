@@ -20,9 +20,9 @@ _NAR_, 2014
 <img src="https://github.com/armintoepfer/5-virus-mix/blob/master/images/5vm_workflow.png?raw=true" alt="HaploClique"/>
 
 ### Data sets
-[Illumina.sra](http://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR961/SRR961514/SRR961514.sra)  
-[454.sra](http://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR961/SRR961596/SRR961596.sra)  
-[PacBio.sra](http://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR961/SRR961669/SRR961669.sra)  
+[Illumina.sra](https://www.ncbi.nlm.nih.gov/sra/?term=SRR961514)  
+[454.sra](https://www.ncbi.nlm.nih.gov/sra/?term=SRR961596)  
+[PacBio.sra](https://www.ncbi.nlm.nih.gov/sra/?term=SRR961669)  
 
 ### True haplotypes
 ### Reconstructed haplotypes
